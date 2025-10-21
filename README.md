@@ -1,4 +1,4 @@
-# PyBooklet Printer 📖 (Booklet Printing Utility)
+# Kitap Pechat 📖 (Booklet Printing Utility)
 
 **PyBooklet Printer** is a cross-platform (Linux & Windows) desktop application built with Python and Tkinter for preparing and printing PDF documents in booklet (saddle-stitch) format. It solves the common problem of manually sorting pages for double-sided printing.
 
@@ -61,8 +61,8 @@ The application provides two core functions to handle your printing needs:
 
 Pre-compiled executable files for easy installation are available in the [Releases] section:
 
-* **[Download for Linux with AppImage](https://t.me/yakubbaevdev_blog/15)**
-* **[Download for Windows (.exe)]**
+* **[Download for Linux with AppImage](https://t.me/yakubbaevdev_blog/20)**
+* **[Download for Windows](https://t.me/yakubbaevdev_blog/19)**
 
 ## 📸 Screenshots
 
@@ -81,4 +81,4 @@ Feel free to open an issue or submit a pull request!
 This project is licensed under the MIT License.
 
 ---
-*Developed by: [Azamat / <a href="https://github.com/OnlineAzamat">OnlineAzamat</a>]*
+*Developed by: [Azamat Yakubbaev / <a href="https://github.com/OnlineAzamat">OnlineAzamat</a>]*
